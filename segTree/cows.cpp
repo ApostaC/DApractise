@@ -10,7 +10,7 @@ struct Node
 	int sum;
 };
 
-Node tree[N];
+Node tree[N<<2];
 
 int n,a[N];
 
